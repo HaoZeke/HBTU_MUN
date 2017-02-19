@@ -1,0 +1,23 @@
+source 'https://rubygems.org'
+
+gem 'html-proofer'
+gem 'mini_magick'
+gem 'rake'
+gem 'html_compressor'
+gem 'yui-compressor'
+gem 'image_optim'
+gem 'image_optim_pack'
+gem 'jekyll'
+#gem 'octopress-paginate', :git => 'https://github.com/octopress/paginate.git', :branch => 'jekyll3'
+
+gem 'jekyll-paginate'
+
+gem 'jekyll-coffeescript'
+gem 'jekyll-sass-converter'
+gem 'jekyll-textile-converter'
+gem 'jekyll-sitemap'
+gem 'rdiscount'
+gem 'redcarpet'
+gem 'kramdown'
+gem 'RedCloth'
+gem 'dotenv'

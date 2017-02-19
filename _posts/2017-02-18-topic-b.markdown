@@ -1,0 +1,12 @@
+---
+title: International Space Arms Race Prevention
+subtitle: Topic B
+layout: default
+modal-id: 2
+date: 2017-02-18
+img: topB.jpg
+thumbnail: topB-thumb.png
+alt: image-alt
+description: The race to the stars has long been one of most prestigious and technologically advanced endeavor of mankind. Almost equally technically advanced are the weapons of war. However it is within the mandate of the SPECPOL to determine methods to prevent this race from accelerating into an arms race.
+
+---

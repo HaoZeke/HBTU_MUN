@@ -1,0 +1,12 @@
+---
+title: Reforming UN Peacekeeping Operations
+subtitle: Topic A
+layout: default
+modal-id: 1
+date: 2017-02-19
+img: topA1.jpg
+thumbnail: topA-thumb.png
+alt: Peacekeeping Statistics
+description: In light of the accusations of war crimes against peackeeping corps, it is of extreme urgency to scrutinize the working and accountability of UN Peacekeeping missions. Additionally, clarifications on the effectiveness of these missions is also pertinent. 
+
+---
