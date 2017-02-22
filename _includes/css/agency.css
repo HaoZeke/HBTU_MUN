@@ -276,6 +276,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height:100vh;
 }
 
 header .intro-text {
@@ -357,16 +358,12 @@ section h3.section-subheading {
 #committee {
     color: #fff;
     z-index: 2;
-        margin-top:250px;
-
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/specpol.jpg');
     background-position: 50% 50%;
     background-repeat: none;
-    display:block;
     background-color: rgba(24,25,25,0.7);
     background-blend-mode: multiply;
-    margin:auto;
 }
 
 
