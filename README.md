@@ -1,30 +1,14 @@
-Agency Jekyll theme
+#HBTU 2016 MUN
 ====================
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)   [![Donation](https://img.shields.io/badge/Donate-%3F-lightgrey.svg)](https://www.instamojo.com/@HaoZeke/)
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Modified Agency jekyll-theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-# How to use
+## What?
+I was to design and chair an MUN so... Made this up.
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Used a lot of borrowed js. [Like the ticker](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/)
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Same old CC logo and stuff.
+Licenses in the folder.
