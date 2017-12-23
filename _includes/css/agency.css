@@ -359,7 +359,7 @@ section h3.section-subheading {
     color: #fff;
     z-index: 2;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/specpol.jpg');
+    background-image: url('{{ site.url }}/img/specpol.jpg');
     background-position: 50% 50%;
     background-repeat: none;
     background-color: rgba(24,25,25,0.7);
