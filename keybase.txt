@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/haozeke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hbtuMun17.netlify.com
+  * I am haozeke (https://keybase.io/haozeke) on keybase.
+  * I have a public key ASD16mK22mUSUpxjZqrfdWQNoaQjf6SH2mhJsmi4B_J2jAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ed13a74c208e57451702e57550c266f31f877ea9d2786b13e00769e447447d00a",
+      "host": "keybase.io",
+      "kid": "0120f5ea62b6da6512529c6366aadf75640da1a4237fa487da6849b268b807f2768c0a",
+      "uid": "8ca27cf24cf6c9de4076b171e8004019",
+      "username": "haozeke"
+    },
+    "merkle_root": {
+      "ctime": 1514012345,
+      "hash": "148ff76173091ece5dea49040c4bcaadf8c6411f8754d7d8069bf252b61ab266b135f8736451f7508e4a5df0857043865f142b2f8c004f90f92e99bd0671e513",
+      "hash_meta": "82b543b3159ec331b019127741889fc98d8c6f12f6aea45c09a015433ddee87e",
+      "seqno": 1852232
+    },
+    "service": {
+      "hostname": "hbtuMun17.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514012419,
+  "expire_in": 504576000,
+  "prev": "ff7abe38007c6af4e07f59fbfd4d7f01dd3ec31f026cb0912e3117a672b87148",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9epittplElKcY2aq33VkDaGkI3+kh9poSbJouAfydowKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGVkMTNhNzRjMjA4ZTU3NDUxNzAyZTU3NTUwYzI2NmYzMWY4NzdlYTlkMjc4NmIxM2UwMDc2OWU0NDc0NDdkMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjVlYTYyYjZkYTY1MTI1MjljNjM2NmFhZGY3NTY0MGRhMWE0MjM3ZmE0ODdkYTY4NDliMjY4YjgwN2YyNzY4YzBhIiwidWlkIjoiOGNhMjdjZjI0Y2Y2YzlkZTQwNzZiMTcxZTgwMDQwMTkiLCJ1c2VybmFtZSI6Imhhb3pla2UifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTQwMTIzNDUsImhhc2giOiIxNDhmZjc2MTczMDkxZWNlNWRlYTQ5MDQwYzRiY2FhZGY4YzY0MTFmODc1NGQ3ZDgwNjliZjI1MmI2MWFiMjY2YjEzNWY4NzM2NDUxZjc1MDhlNGE1ZGYwODU3MDQzODY1ZjE0MmIyZjhjMDA0ZjkwZjkyZTk5YmQwNjcxZTUxMyIsImhhc2hfbWV0YSI6IjgyYjU0M2IzMTU5ZWMzMzFiMDE5MTI3NzQxODg5ZmM5OGQ4YzZmMTJmNmFlYTQ1YzA5YTAxNTQzM2RkZWU4N2UiLCJzZXFubyI6MTg1MjIzMn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJoYnR1TXVuMTcubmV0bGlmeS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDAxMjQxOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmZjdhYmUzODAwN2M2YWY0ZTA3ZjU5ZmJmZDRkN2YwMWRkM2VjMzFmMDI2Y2IwOTEyZTMxMTdhNjcyYjg3MTQ4Iiwic2Vxbm8iOjQzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMvfSe1WA9Bb7pShpxLa/rKj3+Ql8zJ4d6/2Hmg4VIsSJLcdY2QizA5Szy9rkvXsChgBKgeoWVeCh5LH+KQt7QCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAk5IUYcaYiaSXEsfhxzEl1CWqFFckXF1GWCdxjQFKlCqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haozeke
+
+==================================================================
