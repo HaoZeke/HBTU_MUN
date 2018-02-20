@@ -149,5 +149,5 @@ function initializeClock(id, endtime) {
   var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = "2017-02-26";
+var deadline = "2018-03-9";
 initializeClock('clockdiv', deadline);
