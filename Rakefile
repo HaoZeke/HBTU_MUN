@@ -164,7 +164,7 @@ end
 # Gen & Pub  #
 ##############
 
-GB_REPONAME = "HaoZeke/HBTU_MUN"
+GB_REPONAME = "HaoZeke/hbtuMun17"
 
 namespace :site do
   desc "Generate blog files"
